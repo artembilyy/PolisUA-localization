@@ -1,0 +1,123 @@
+sourceLanguage: "uk"
+version: "1.0"
+strings:
+  authWelcomeTitle:
+    en: "Welcome to PolisUA"
+    ru: "Добро пожаловать в PolisUA"
+    uk: "Ласкаво просимо до PolisUA"
+  authSubtitle:
+    en: "Join us to stay connected"
+    ru: "Присоединяйтесь, чтобы оставаться на связи"
+    uk: "Приєднуйтесь, щоб залишатися на зв’язку"
+  loginButtonTitle:
+    en: "Log In"
+    ru: "Войти"
+    uk: "Увійти"
+  signUpButtonTitle:
+    en: "Sign Up"
+    ru: "Зарегистрироваться"
+    uk: "Зареєструватися"
+  forgotPasswordLink:
+    en: "Forgot Password?"
+    ru: "Забыли пароль?"
+    uk: "Забули пароль?"
+  loginWithGoogle:
+    en: "Log in with Google"
+    ru: "Войти через Google"
+    uk: "Увійти через Google"
+  loginWithFacebook:
+    en: "Log in with Facebook"
+    ru: "Войти через Facebook"
+    uk: "Увійти через Facebook"
+  loginWithApple:
+    en: "Log in with Apple"
+    ru: "Войти через Apple"
+    uk: "Увійти через Apple"
+  emailFieldTitle:
+    en: "Email"
+    ru: "Электронная почта"
+    uk: "Електронна пошта"
+  emailFieldPlaceholder:
+    en: "Enter your email"
+    ru: "Введите вашу почту"
+    uk: "Введіть вашу пошту"
+  passwordFieldTitle:
+    en: "Password"
+    ru: "Пароль"
+    uk: "Пароль"
+  passwordFieldPlaceholder:
+    en: "Enter your password"
+    ru: "Введите ваш пароль"
+    uk: "Введіть ваш пароль"
+  confirmPasswordFieldTitle:
+    en: "Confirm Password"
+    ru: "Подтвердите пароль"
+    uk: "Підтвердіть пароль"
+  confirmPasswordFieldPlaceholder:
+    en: "Re-enter your password"
+    ru: "Повторите ваш пароль"
+    uk: "Повторіть ваш пароль"
+  nameFieldTitle:
+    en: "Full Name"
+    ru: "Полное имя"
+    uk: "Повне ім’я"
+  nameFieldPlaceholder:
+    en: "Enter your name"
+    ru: "Введите ваше имя"
+    uk: "Введіть ваше ім’я"
+  loginErrorInvalidCredentials:
+    en: "Invalid email or password. Please try again."
+    ru: "Неверный email или пароль. Попробуйте еще раз."
+    uk: "Невірний email або пароль. Спробуйте ще раз."
+  signUpErrorEmailTaken:
+    en: "This email is already registered."
+    ru: "Этот email уже зарегистрирован."
+    uk: "Цей email уже зареєстровано."
+  passwordMismatchError:
+    en: "Passwords do not match."
+    ru: "Пароли не совпадают."
+    uk: "Паролі не співпадають."
+  passwordTooShortError:
+    en: "Password must be at least 8 characters long."
+    ru: "Пароль должен содержать не менее 8 символов."
+    uk: "Пароль має містити щонайменше 8 символів."
+  emailInvalidError:
+    en: "Please enter a valid email address."
+    ru: "Пожалуйста, введите действительный email."
+    uk: "Будь ласка, введіть дійсний email."
+  nameEmptyError:
+    en: "Name cannot be empty."
+    ru: "Имя не может быть пустым."
+    uk: "Ім’я не може бути порожнім."
+  resetPasswordTitle:
+    en: "Reset Password"
+    ru: "Сбросить пароль"
+    uk: "Скинути пароль"
+  resetPasswordInstruction:
+    en: "Enter your email to receive a password reset link."
+    ru: "Введите ваш email, чтобы получить ссылку для сброса пароля."
+    uk: "Введіть ваш email, щоб отримати посилання для скидання пароля."
+  resetPasswordButton:
+    en: "Send Reset Link"
+    ru: "Отправить ссылку для сброса"
+    uk: "Надіслати посилання для скидання"
+  resetPasswordSuccess:
+    en: "Reset link sent! Check your email."
+    ru: "Ссылка для сброса отправлена! Проверьте вашу почту."
+    uk: "Посилання для скидання надіслано! Перевірте вашу пошту."
+  resetPasswordError:
+    en: "Failed to send reset link. Please try again."
+    ru: "Не удалось отправить ссылку для сброса. Попробуйте еще раз."
+    uk: "Не вдалося надіслати посилання для скидання. Спробуйте ще раз."
+  termsAndConditionsLink:
+    en: "Terms & Conditions"
+    ru: "Условия и положения"
+    uk: "Умови та положення"
+  privacyPolicyLink:
+    en: "Privacy Policy"
+    ru: "Политика конфиденциальности"
+    uk: "Політика конфіденційності"
+  authFooterText:
+    en: "By continuing, you agree to our Terms & Conditions and Privacy Policy."
+    ru: "Продолжая, вы соглашаетесь с нашими Условиями и Политикой конфиденциальности."
+    uk: "Продовжуючи, ви погоджуєтеся з нашими Умовами та Політикою конфіденційності."

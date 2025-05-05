@@ -2,7 +2,7 @@ import os
 
 class Config:
     def __init__(self):
-        # Get the directory of this script (root of PolisUA-localization)
+        # Get the directory of this script (root of PolisUA-localization when cloned)
         self.script_dir = os.path.dirname(os.path.realpath(__file__))
         # Directory containing YAML localization files
         self.yaml_dir = os.path.join(self.script_dir, "Localization")
@@ -10,8 +10,8 @@ class Config:
         self.local_repo_dir = os.path.join(self.script_dir, "repo")
         
         # Output paths for iOS localization files
-        # Relative to the iOS project root (PolisUA)
-        self.ios_output_dir = os.path.join(self.script_dir, "..", "..", "Resources")
+        # Point to PolisUA/PolisUA/Resources relative to Scripts/
+        self.ios_output_dir = os.path.join(self.script_dir, "..", "..", "PolisUA", "Resources")
         # Path for generated RSKey.swift file
         self.ios_enum_output = os.path.join(self.ios_output_dir, "RSKey.swift")
         
